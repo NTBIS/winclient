@@ -1,0 +1,15 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: erpnet
+  name: erpnet
+  href: includes/erpnet.html
+- uid: name
+  name: name
+  href: includes/name.html
+- uid: winclient
+  name: winclient
+  href: includes/winclient.html
+- uid: winclientfull
+  name: winclientfull
+  href: includes/winclientfull.html
