@@ -6,8 +6,8 @@ For information and deep dive in the business logic of @@name, check the [Techni
 
 ## Topics
 
-- Introduction to the @@winclient
-- How to...
+- Introduction to @@winclient
+- Step by step guides
 - Specific functionality - forms, which are specific to the @@winclient
 
 ## Other documentations
