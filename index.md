@@ -5,8 +5,8 @@ This documentation contains information about the user interface and how to use 
 For information and deep dive in the business logic of @@name, check the [Technical Documentation](https://docs.erp.net/tech).
 
 ## Topics
-
-- Introduction to @@winclient
+ 
+- [Introduction to @@winclientfull](~/introduction/overview.md) - explanation of commonly used terms, concepts and commands.
 - Step by step guides
 - Specific functionality - forms, which are specific to the @@winclient
 
