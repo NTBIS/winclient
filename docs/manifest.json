@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/ivanarj/Documents/GitHub/winclient",
+  "source_base_path": "C:/TFSAgent15/_work/25/s",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -18,7 +18,29 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "3ZwnJCYkFlf0gnRzu0F+nw=="
+          "hash": "GFmzuDbYS6CLo8uLsCibJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/fonts/glyphicons-halflings-regular.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/logo.svg"
         }
       },
       "is_incremental": false,
@@ -30,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/erpnet.html",
-          "hash": "pd3mNZMao+dniDtRXS3wow=="
+          "hash": "RJZkN1VYVyoQ5DIm3US4EA=="
         }
       },
       "is_incremental": false,
@@ -42,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/name.html",
-          "hash": "yzV4mJGpGQt9+uV7EsbWXQ=="
+          "hash": "CY/UOlsd0OLzdr82ilfPkQ=="
         }
       },
       "is_incremental": false,
@@ -54,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/winclient.html",
-          "hash": "F7VAGt4GMxU3Yl7KiMA1zg=="
+          "hash": "pFMzGzMebYjnKSl+BJjJNA=="
         }
       },
       "is_incremental": false,
@@ -66,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "includes/winclientfull.html",
-          "hash": "cwxQT/pUu5L14wb4eW9/7g=="
+          "hash": "GwTi1JUTdnTY5t36daswRA=="
         }
       },
       "is_incremental": false,
@@ -78,7 +100,43 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "I11thOxgIPRqVSNfI/wAOg=="
+          "hash": "HuIonJt5hcHQlaBU+n4ipA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/overview.html",
+          "hash": "+M9J7zLr6eXw32VsabYToA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "introduction/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/toc.html",
+          "hash": "qzFSh9PdyRTHsa6c3aVjbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "introduction/workspace-customization/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "introduction/workspace-customization/overview.html",
+          "hash": "clO647Zgi6kZniVqtBvz+w=="
         }
       },
       "is_incremental": false,
@@ -117,6 +175,13 @@
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
